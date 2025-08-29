@@ -5,7 +5,7 @@ I've attached a list of the materials I used to submit applications to the [Mast
 
 There's already a lot of info about the process at the final link in this readme, so I'll only make some short comments about things I wish I knew during the application process:
 1. Instead of worrying about immediately having results and changing the world during your initial research project(s), it's better to focus on being principled in research (i.e. repeatable experiments, clean code that makes running many different experiments/metrics/ablations easy, consistant visuals for result progress + making sure to manually inspect samples, and clarity of presentations during meetings). The more you help yourself understand what's going on, the easier it is for others to help you :), and the better your habits will be going forward
-2. Making sure you write a good summary for your recommenders is super important, and I feel like people overweight SOP and underweight this part of the application process (i.e. helping your recommenders help you). Make sure you spend time on writing down not only the final things that you contributed, but the process as well as your learnings from failure cases (tbh my summaries could have been better haha, so maybe take them as a lower bound)
+2. Making sure you write a good summary for your recommenders is super important, and I feel like people overweight SOP and underweight this part of the application process (i.e. helping your recommenders help you). Make sure you spend time on writing down not only the final things that you contributed, but the process as well as your learnings from failures along the way (tbh my summaries could have been better haha, so maybe take them as a lower bound)
 
 For a ton more info, check out this link:
 
